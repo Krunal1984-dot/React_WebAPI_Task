@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RpABn0ucejvn3CuNHwrHIIQdLX0JW5/7zr2wcOHckdMxyid3Q4MG7gW3Q0n0QWJdZhxAISVcdww3vgpJ9O6Dw==",
+  "success": true,
+  "projectFilePath": "F:\\Aditya\\Store[1]\\Store[1]\\Store\\Store.Repository\\Store.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

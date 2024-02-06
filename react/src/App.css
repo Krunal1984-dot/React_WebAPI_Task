@@ -1,0 +1,11 @@
+.input-search{
+    width: 95%;
+}
+
+.search-result-data{
+    background: #F8F8FF;
+}
+
+.error-field{
+    color: red;
+}
